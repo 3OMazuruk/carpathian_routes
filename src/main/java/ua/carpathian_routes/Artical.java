@@ -8,7 +8,7 @@ public class Artical {
     private String name;
     private String title;
     private String descr;
-    private List<String> tags;
+    private List<String> tags; 
 
     public Artical() {
     }
